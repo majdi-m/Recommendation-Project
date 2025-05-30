@@ -22,13 +22,13 @@ Key Components: Feature engineering, model training, recommendation generation, 
 
 ## Dataset
 The project utilizes the H&M dataset, which includes:
-### Transaction Training Data: Records of customer purchases.
+Transaction Training Data: Records of customer purchases.
 
-### Article Image Data: Information about products (e.g., descriptions, categories).
+Article Image Data: Information about products (e.g., descriptions, categories).
 
-### Customer Data: Demographic and behavioral information about customers.
+Customer Data: Demographic and behavioral information about customers.
 
-### Submission Data: Data used for generating and evaluating recommendations.
+Submission Data: Data used for generating and evaluating recommendations.
 
 ## Getting Started
 Prerequisites
